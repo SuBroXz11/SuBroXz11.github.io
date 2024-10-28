@@ -16,7 +16,7 @@ export default function Hero() {
                         <a href="https://github.com/SuBroXz11" target='blank' className='bounce2'>
                             <FaGithubSquare className='h-8 w-8 md:h-10 md:w-10 lg:h-12 lg:w-12  text-slate-600 hover:text-black duration-700' />
                         </a>
-                        <a href="https://np.linkedin.com/in/subrat-karmacharya-bbaa5626b" target='_blank' className='bounce2'>
+                        <a href="https://www.linkedin.com/in/subratkarmacharya/" target='_blank' className='bounce2'>
                             <FaLinkedin className='h-8 w-8 md:h-10 md:w-10 lg:h-12 lg:w-12  text-slate-600 hover:text-black duration-700' />
                         </a>
                         <a href="https://www.instagram.com/subratkarmacharya/" target='_blank' className='bounce2'>
